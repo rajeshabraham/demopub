@@ -1,11 +1,30 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BE1F-C497
 
-Pinging ILRNAFVDEMO01.corp.amdocs.com [::1] with 32 bytes of data:
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
+ Directory of c:\
 
-Ping statistics for ::1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+04/03/2020  02:21 PM           183,080 1.txt
+28/01/2020  12:56 PM                 0 a.txt
+04/03/2020  04:12 PM    <DIR>          Client
+13/05/2020  11:32 AM    <DIR>          cmtrace
+21/04/2020  10:47 PM                36 diskpart.txt
+26/12/2019  10:36 AM    <DIR>          HPUD
+22/11/2019  12:38 PM    <DIR>          ILMTAgent_9.5.5
+30/12/2019  05:14 PM    <DIR>          inetpub
+20/07/2021  05:39 PM    <DIR>          iris
+05/02/2020  03:17 AM    <DIR>          Logs
+21/11/2017  05:44 PM    <DIR>          New folder
+07/12/2019  07:24 PM    <DIR>          PerfLogs
+19/01/2017  07:55 PM             4,526 process.txt
+03/06/2021  05:47 PM    <DIR>          Program Files
+19/04/2021  03:01 PM    <DIR>          Program Files (x86)
+06/09/2020  10:37 AM    <DIR>          spool
+23/01/2019  11:49 AM    <DIR>          SRA_Web_Demo
+07/08/2021  01:40 PM    <DIR>          temp
+09/07/2020  12:25 PM    <DIR>          tmp
+24/01/2017  08:03 PM    <DIR>          Toolkit
+18/10/2020  07:06 PM    <DIR>          totalcmd
+01/08/2021  01:22 PM    <DIR>          Users
+26/08/2021  07:07 PM    <DIR>          Windows
+               4 File(s)        187,642 bytes
+              19 Dir(s)  18,536,136,704 bytes free
