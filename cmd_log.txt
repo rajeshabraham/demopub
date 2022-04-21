@@ -1,11 +1,26 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BE1F-C497
 
-Pinging ILRNAFVDEMO01.corp.amdocs.com [::1] with 32 bytes of data:
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
-Reply from ::1: time<1ms 
+ Directory of C:\Users\rajeshab\OneDrive - AMDOCS\RPA_PRODUCTION\ViChatBOTDemo
 
-Ping statistics for ::1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+15/04/2022  10:51 AM    <DIR>          .
+15/04/2022  10:51 AM    <DIR>          ..
+04/05/2021  05:07 AM    <DIR>          .entities
+26/08/2021  12:17 PM    <DIR>          .screenshots
+04/05/2021  05:07 AM    <DIR>          .settings
+13/04/2022  08:08 PM    <DIR>          .templates
+04/05/2021  05:09 AM    <DIR>          .tmh
+06/05/2021  03:22 PM            10,346 cli_exec_flow.xaml
+15/04/2022  10:56 AM            11,248 database_interaction.xaml
+16/11/2020  05:46 AM             4,031 druid_callback.xaml
+15/04/2022  10:41 AM            10,653 fv_thick_client.xaml
+05/10/2021  05:20 AM            22,316 Git_Command_Line.xaml
+05/05/2021  05:40 PM            23,176 git_update.xaml
+26/05/2021  03:09 PM            58,346 Main.xaml
+15/04/2022  10:51 AM            25,274 MMDashboard.xaml
+05/05/2021  05:19 PM             1,949 project.json
+05/05/2021  05:40 PM            26,325 take_case_screenshot.xaml
+16/11/2020  05:30 AM             5,831 test_json.xaml
+17/11/2020  06:44 AM            25,142 ViChatBOTDemo.1.0.1.nupkg
+              12 File(s)        224,637 bytes
+               7 Dir(s)  15,846,674,432 bytes free
