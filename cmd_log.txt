@@ -1,0 +1,31 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BE1F-C497
+
+ Directory of C:\
+
+04/03/2020  02:21 PM           183,080 1.txt
+28/01/2020  12:56 PM                 0 a.txt
+04/03/2020  04:12 PM    <DIR>          Client
+13/05/2020  11:32 AM    <DIR>          cmtrace
+21/04/2020  10:47 PM                36 diskpart.txt
+26/12/2019  10:36 AM    <DIR>          HPUD
+22/11/2019  12:38 PM    <DIR>          ILMTAgent_9.5.5
+30/12/2019  05:14 PM    <DIR>          inetpub
+20/07/2021  05:39 PM    <DIR>          iris
+05/02/2020  03:17 AM    <DIR>          Logs
+21/11/2017  05:44 PM    <DIR>          New folder
+15/12/2021  05:34 PM    <DIR>          Node-red
+07/12/2019  07:24 PM    <DIR>          PerfLogs
+19/01/2017  07:55 PM             4,526 process.txt
+20/12/2021  12:13 PM    <DIR>          Program Files
+20/12/2021  12:12 PM    <DIR>          Program Files (x86)
+05/10/2021  10:39 AM    <DIR>          spool
+23/01/2019  11:49 AM    <DIR>          SRA_Web_Demo
+26/05/2022  05:26 PM    <DIR>          temp
+09/07/2020  12:25 PM    <DIR>          tmp
+24/01/2017  08:03 PM    <DIR>          Toolkit
+18/10/2020  07:06 PM    <DIR>          totalcmd
+11/05/2022  05:53 PM    <DIR>          Users
+29/05/2022  11:19 AM    <DIR>          Windows
+               4 File(s)        187,642 bytes
+              20 Dir(s)  10,942,787,584 bytes free
